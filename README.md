@@ -5,3 +5,5 @@
 ![image](https://user-images.githubusercontent.com/66878884/163513497-3ecec11b-0be0-47a6-a000-c9d3ab0fe42b.png)
 
 ![image](https://user-images.githubusercontent.com/66878884/163513550-279fe68c-099a-48cf-abd6-6c1e9106159f.png)
+
+###DİREKT SRC DOSYASINI ÇEKİP KENDİ KURUDĞUNUZ REACT PROJESİNE ATMANIZ DAHA İYİ OLACAKTIR###
